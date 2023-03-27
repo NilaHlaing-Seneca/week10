@@ -1,0 +1,5 @@
+NilaHlaing-Seneca
+nhlaing@myseneca.ca
+
+git config --global user.name "NilaHlaing-Seneca"
+git config --global user.email "nhlaing@myseneca.ca"
